@@ -1,7 +1,7 @@
 # 1071-c-programming
 
 w01:
-    ax^2+bx+c=0.cpp
+    ## Headingax^2+bx+c=0.cpp
     c to f.cpp
     f to c.cpp
     welcome.cpp
@@ -29,5 +29,5 @@ w06:
 extra:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQwMzkxNDIzXX0=
+eyJoaXN0b3J5IjpbOTk1NDk5NDI1XX0=
 -->
